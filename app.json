@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "PruebaLaika",
+    "slug": "PruebaLaikaMobile",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "android": {
+      "package": "laika.com",
+      "versionCode": 1,
+      "permissions": []
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
